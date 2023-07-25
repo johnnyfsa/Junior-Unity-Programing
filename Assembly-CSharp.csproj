@@ -62,6 +62,7 @@
     <Compile Include="Assets\Scripts\ResourcePile.cs" />
     <Compile Include="Assets\Scripts\MenuUIHandler.cs" />
     <Compile Include="Assets\Scripts\UI\UIMainScene.cs" />
+    <Compile Include="Assets\Scripts\MainManager.cs" />
     <Compile Include="Assets\Scripts\UserControl.cs" />
     <Compile Include="Assets\Scripts\Helpers\AnimatorHandler.cs" />
     <Compile Include="Assets\Scripts\Helpers\ResourceItem.cs" />
